@@ -1,5 +1,5 @@
 # IdleName
-  you can get get all the Keyakizaka46 member's fullname.
+  you can get all the Keyakizaka46 member's fullname.
 # Dependency
   please install python3 , pip3
 

@@ -8,7 +8,7 @@
 anyenv update
 pyenv install 3.7.3
 pip install pipenv
-pipenv --three or phpenv --3.7.3
+pipenv --3.7.3
 pipenv install
 ```
 
